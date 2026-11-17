@@ -217,10 +217,10 @@ python3 presentation/generate_slides.py
 
 ## 👥 Contributors
 
-* **Reddy Rohit Siva Sai** — System Architecture
-* **Neelesh Kumar Tiwari**  — Project Lead & Repository Owner
-* **Brejin** - RAG Implementation and Feedback Loop
-* **Devneder** — Machine Learning & Classification
+* **Reddy Rohit Siva Sai** — MTTR and Streamlit UI
+* **Neelesh Kumar Tiwari**  — Data and Evaluation
+* **Brejin** - RAG Implementation 
+* **Devneder** — Backend
 
 ---
 
